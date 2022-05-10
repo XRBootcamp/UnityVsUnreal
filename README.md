@@ -1,5 +1,8 @@
-# Unity VS Unreal
+# Unity vs Unreal 2022
 
+### This is the open source version of the comparison table of the two most powerful game engines out there.
+### Everyone is invited to contribute and to suggest changes.
+#
 | Feature/Criteria | Unity  | Unreal  |
 | ------- | --- | --- |
 | Visual Scripting | Unity visual scripting (formerly Bolt). Complements C# scripting, but with less documentation. Easily extendable. | Blueprint. The focus of scripting documentation. Powerful, but siloed from C++ scripting. More challenging to extend. |
