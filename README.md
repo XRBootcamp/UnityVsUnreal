@@ -17,7 +17,7 @@
 | Rendering Capabilities | Efficient/moderate quality by default. High quality is attainable with greater effort. | High quality by default. Performance may suffer for mobile devices without optimization. |
 | Animation Framework | State-machines, timelines/sequences, script-based animation. With enough time and effort, just about any feature visible to the end player/viewer of an Unreal product can see the same results produced with Unity. The limiting factor is the time it takes to reach these end results due to the requirement to build animation systems up from scratch. | State-machines, timelines/sequences, script-based animations, animation post-processing, in-engine rigging, live-link. The Blueprint a unique derivative: the Animation Blueprint. The ability to rapidly composite animations does not necessarily extend the functionality far beyond what Unity can provide, but it does provide a faster pipeline. |
 | Shaders and Materials | HLSL, and Visual Material Scripting. Requires greater understanding of Shader programming. | Visual Material Scripting. Requires less understanding of Shader programming. |
-| VFX Pipeline | VFX Graph. | Cascade (Legacy System), Niagra. |
+| VFX Pipeline | VFX Graph. | Cascade (Legacy System), Niagara. |
 | Networking Framework | Some built-in support, but mostly third party plugins are used, like Photon, Normcore or Mirror. | Built-in support out of the box is very good and battle tested in games as Fortnite. |
 | WebXR | HTML5 build supported | Not Supported |
 | Performance | Smaller distributions by default. less complex render pipelines result in fewer performance bottlenecks. | Larger distributions by default. Performance may suffer if the wrong features are left enabled for less capable hardware. |
