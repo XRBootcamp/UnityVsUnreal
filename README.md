@@ -6,7 +6,7 @@
 | Feature/Criteria | Unity  | Unreal  |
 | ------- | --- | --- |
 | Visual Scripting | Unity visual scripting (formerly Bolt). Complements C# scripting, but with less documentation. Easily extendable. | Blueprint. The focus of scripting documentation. Powerful, but siloed from C++ scripting. More challenging to extend. |
-| XR Integrations | OpenXR, Oculus VR, Steam VR, Vive Wave, UWP for Hololens, Lumin OS for Magic Leap, Pico SDK**, WebXR. | OpenXR, Oculus VR*, Steam VR, Vive Wave**, UWP for Hololens, Lumin OS for Magic Leap, Pico SDK**. |
+| XR Integrations | ARFoundation, OpenXR, Oculus VR, Steam VR, Vive Wave, UWP for Hololens, Lumin OS for Magic Leap, Pico SDK**, WebXR. | OpenXR, Oculus VR*, Steam VR, Vive Wave**, UWP for Hololens, Lumin OS for Magic Leap, Pico SDK**. |
 | Native Virtual Collaboration Tools (Source Control) | Perforce, Unity Teams / Plastic SCM. | Perforce, SVN. |
 | Photogrammetry | Documented external pipeline | RealityScan (coming soon) |
 | Stock Art Assets | Unity asset store, Sketchfab, Unity Art Engine. | Unreal marketplace, Sketchfab, Quixel Bridge. |
