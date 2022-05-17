@@ -25,7 +25,7 @@
 | Documentation | More comprehensive. | More fragmented. Not all systems are documented in a central repository. |
 | Support | Unity has a large community of developers, if you are stuck it is easy to find someone with a similar problem. | Unreal has a smaller community, if you are not an experienced developer it is easy to be stuck when developing. |
 | License Costs | Start without fees, $ 399 per year/user for studios. No royalties. | Start without fees, 5% royalties for off-the-shelf products that exceed $1M gross profit over the lifetime of the product. |
-| Target Industries | Cross-platform gaming, entertainment, and education. | AAA gaming, industrial engineering, medical device, and pharmaceuticals. |
+| Target Industries | Cross-platform gaming, entertainment, and education. | AAA gaming, industrial engineering, medical device, and pharmaceuticals, virtual production, arch viz. |
 | Learning Curve | More accessible for programmers. Unity has fewer bells and whistles by default, which enables learning fundamentals without being faced with challenging complex systems. | More accessible for artists. The wide range of systems, plugins, and tools make advanced work faster, but learning these systems will take longer. |
 | Cross-Platform Deployment | Unity has wider cross-platform support, and with the URP pipeline, it is easy to deploy across multiple platforms without overhauling your projects. | Unreal has cross-platform deployment, but it requires more manual setup and application compilation knowledge. |
 
