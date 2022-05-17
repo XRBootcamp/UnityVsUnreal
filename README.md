@@ -9,7 +9,7 @@
 | XR Integrations | ARFoundation, OpenXR, Oculus VR, Steam VR, Vive Wave, UWP for Hololens, Lumin OS for Magic Leap, Pico SDK**, WebXR. | OpenXR, Oculus VR*, Steam VR, Vive Wave**, UWP for Hololens, Lumin OS for Magic Leap, Pico SDK**. |
 | Native Virtual Collaboration Tools (Source Control) | Perforce, Unity Teams / Plastic SCM. | Perforce, SVN. |
 | Photogrammetry | Documented external pipeline | RealityScan (coming soon) |
-| Stock Art Assets | Unity asset store, Sketchfab, Unity Art Engine. | Unreal marketplace, Sketchfab, Quixel Bridge. |
+| Stock Art Assets | Unity asset store, Sketchfab, Unity Art Engine. | Unreal marketplace, Sketchfab, Free Quixel Bridge Ecosystem with film quality level and metahumans. |
 | Physics-Based Interactions for XR | PhysX, VR template, more 3rd-party plugins. | PhysX /Chaos, VR template, fewer 3rd-party plugins. |
 | Native IK Based Interactions | Two-bone IK, Chain solver, FABRIK solver. | Two-bone IK, Trail solver, CCDIK, FABRIK solver, Full body IK. |
 | Asset Management Pipeline | Original Asset + Metadata file.  You’ll still need to export from your authoring platform of choice, but there’s one less step to worry about when transferring assets, within the engine. | Asset converted to Unreal-specific format during import. This eliminates the need for a separate metadata file, but if an asset becomes corrupt, or is moved outside of its correct location, then it may be hard to recover. In addition, the linking system for assets is highly dependent. You must understand file-redirectors fully if you are going to frequently move or rename assets and folders. |
