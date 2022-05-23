@@ -29,5 +29,5 @@
 | Learning Curve | More accessible for programmers. Unity has fewer bells and whistles by default, which enables learning fundamentals without being faced with challenging complex systems. | More accessible for artists. The wide range of systems, plugins, and tools make advanced work faster, but learning these systems will take longer. |
 | Cross-Platform Deployment | Unity has wider cross-platform support, and with the URP pipeline, it is easy to deploy across multiple platforms without overhauling your projects. | Unreal has cross-platform deployment, but it requires more manual setup and application compilation knowledge. |
 
-* Engine compilation required
+\* Engine compilation required
 ** External download
